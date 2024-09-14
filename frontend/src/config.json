@@ -1,6 +1,6 @@
 {
-    "projectName": "",
-    "projectAvatar": "",
-    "apiURL": "http://localhost",
-    "apikey": ""
+    "projectName": "Kinows",
+    "projectAvatar": "https://i.hizliresim.com/amiao2g.png",
+    "apiURL": "http://localhost/auth/register?apikey=b51929de-cad2-456c-ab68-99d4a1c6c643&username=wasetrox&password=123",
+    "apikey": "b51929de-cad2-456c-ab68-99d4a1c6c643"
 }
